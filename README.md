@@ -11,3 +11,5 @@ This repo contains starter code for the NLP Engineer job interviews. There are t
 2. install requirements: `pip install -r requirements.txt`
 3. run training script: `python train.py`
 4. run streamlit app: `streamlit run app.py`
+
+Once the above steps are done and things are working, you are ready for the interview :-)
